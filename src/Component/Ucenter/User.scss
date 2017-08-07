@@ -1,0 +1,56 @@
+/*
+    个人中心
+*/
+
+@import '../common/Theme.scss';
+.user-index {
+    .headimg {
+        padding: 20px;
+        background: lighten($style-main, 2%);
+        .user-headimg {
+            width: 160px;
+            height: 160px;
+        }
+    }
+    .name {
+        padding-top: 10px;
+        line-height: 48px;
+        font-size: 32px;
+        color: #fff;
+    }
+    .score {
+        font-size: 24px;
+        color: #eee;
+    }
+    .tab-nav {
+        text-align: center;
+        background: #eee;
+        li {
+            line-height: 76px;
+            border-bottom: 3px solid transparent;
+        }
+        .on {
+            border-bottom: 3px solid $style-main;
+        }
+    }
+    .list {
+        display: none;
+        a {
+            overflow: hidden;
+            height: 56px;
+            padding: 5px 10px;
+            line-height: 56px;
+            border-bottom: 1px solid #eee;
+            .tit {
+                font-size: 28px;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+            }
+            time {
+                padding-left: 20px;
+                font-size: 24px;
+                color: #aaa;
+            }
+        }
+    }
+}

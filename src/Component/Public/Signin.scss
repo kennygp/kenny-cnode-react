@@ -1,0 +1,37 @@
+/*
+    登录
+*/
+
+@import '../common/Theme.scss';
+.signin {
+    height: 480px;
+    .center {
+        width: 380px;
+    }
+    .text {
+        margin-bottom: 30px;
+        input {
+            box-sizing: border-box;
+            width: 100%;
+            padding: 5px 10px;
+            line-height: 56px;
+            border-radius: 5px;
+            border: 1px solid #eee;
+            font-size: 26px;
+        }
+    }
+    .btn {
+        display: block;
+        width: 100%;
+        padding: 5px 10px;
+        line-height: 56px;
+        border-radius: 5px;
+        text-align: center;
+        font-size: 26px;
+        color: #fff;
+        background: $style-main;
+    }
+    .btn-red {
+        background: #e63e3e;
+    }
+}
