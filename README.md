@@ -22,7 +22,7 @@
 预览：
 --------------
   1、模拟手机查看[点击打开](http://kenny-cnode.brother66.com/index.html)
-  2、[kenny-cnode]: http://qr.api.cli.im/qr?data=http%253A%252F%252Fkenny-cnode.brother66.com%252Findex.html&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=1cc8ebd1c83dfda8abe05832e5bf86ca "手机扫描二维码"
+  2、![kenny-cnode](http://qr.api.cli.im/qr?data=http%253A%252F%252Fkenny-cnode.brother66.com%252Findex.html&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=1cc8ebd1c83dfda8abe05832e5bf86ca)
   
 快速实现本地dev模式运行我的源码，三步走起：
 --------------
