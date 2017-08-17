@@ -1,6 +1,6 @@
 # webpack2+react+react-router+react-redux+ES6+antd-mobile版本的Cnode
   其实一直想搭一个类似小程序的前端框架，简单、粗暴、易用！奈何，个人功力实在不够！作为一只PHPer，那点半半调子的前端知识真不够撑起自己的理想。
-  
+
 技术栈：
 ----------------
 
@@ -18,6 +18,11 @@
   1、webpack之后app.js有1.3MB，太大了，用那个什么看了看，是react-dom打包后就将近600K，antd-mobile也有230多K，求老鸟指导。。。<br/>
   
   2、编译问题，怎么给打包的JS命名呀，不懂不懂。。。<br/>
+
+预览：
+--------------
+  1、模拟手机查看[点击打开](http://kenny-cnode.brother66.com/index.html)
+  2、[kenny-cnode]: qr.api.cli.im/qr?data=http%253A%252F%252Fkenny-cnode.brother66.com%252Findex.html&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=1cc8ebd1c83dfda8abe05832e5bf86ca "手机扫描二维码"
   
 快速实现本地dev模式运行我的源码，三步走起：
 --------------
