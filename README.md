@@ -21,15 +21,15 @@
 
 预览：
 --------------
-  1、模拟手机查看[点击打开](http://kenny-cnode.brother66.com/index.html)
-  2、[kenny-cnode]: qr.api.cli.im/qr?data=http%253A%252F%252Fkenny-cnode.brother66.com%252Findex.html&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=1cc8ebd1c83dfda8abe05832e5bf86ca "手机扫描二维码"
+  1、模拟手机查看[点击打开](http://kenny-cnode.brother66.com/index.html)<br/>
+  2、![kenny-cnode](http://qr.api.cli.im/qr?data=http%253A%252F%252Fkenny-cnode.brother66.com%252Findex.html&level=H&transparent=false&bgcolor=%23ffffff&forecolor=%23000000&blockpixel=12&marginblock=1&logourl=&size=280&kid=cliim&key=1cc8ebd1c83dfda8abe05832e5bf86ca)
   
 快速实现本地dev模式运行我的源码，三步走起：
 --------------
-      1、克隆我的仓库；<br/>
-      2、命令行 npm install ；<br/>
-      3、命令行 npm run dev ，浏览器访问 localhost:8888 ，F12进入移动开发模式查看 ；<br/>
-      *、如果出现问题，尝试cnpm淘宝镜像安装。<br/>
+      1、克隆我的仓库；
+      2、命令行 npm install ；
+      3、命令行 npm run dev ，浏览器访问 localhost:8888 ，F12进入移动开发模式查看 ；
+      *、如果出现问题，尝试cnpm淘宝镜像安装。
 
 #### 希望得到你的STAR
 半半调子前端求<b>Star</b> ！你们看嘛，半半调子前端都没<b>Star</b>
