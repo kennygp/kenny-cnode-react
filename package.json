@@ -7,7 +7,7 @@
         "dev": "node dev-server",
         "build": "webpack -p"
     },
-    "author": "Terry",
+    "author": "kenny",
     "license": "MIT",
     "devDependencies": {
         "autoprefixer": "^6.4.0",
